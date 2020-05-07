@@ -1,0 +1,4 @@
+// User.aidl
+package com.aidl.login;
+// Declare any non-default types here with import statements
+parcelable User;
